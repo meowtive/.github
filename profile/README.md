@@ -5,6 +5,6 @@ Welcome to Meowtive's GitHub!
 
 Meowtive is your go-to app for daily meowtivation! It delivers a fresh meowtivational quote every day to uplift your spirits and inspire your day. Designed with a playful cat theme, Meowtive provides a perfectly tailored experience with quotes available in multiple languages. You can save your favorite quotes, share them with friends, and enjoy a daily dose of inspiration.
 
-![Github preview](https://github.com/user-attachments/assets/bb93fe0a-5f47-4e62-9e52-ccbad153ed07)
+![Github Preview](https://github.com/user-attachments/assets/53d3839e-a585-42d3-b45b-4b61ff36fccc)
 
 </div>
